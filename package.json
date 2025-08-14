@@ -1,0 +1,11 @@
+{
+  "name": "solana-devnet-test",
+  "version": "1.0.0",
+  "description": "Experiments and scripts for Solana Devnet",
+  "main": "scripts/airdrop.js",
+  "scripts": {
+    "airdrop": "node scripts/airdrop.js"
+  },
+  "author": "YOUR_GITHUB_USERNAME",
+  "license": "MIT"
+}
